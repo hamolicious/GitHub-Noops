@@ -4,3 +4,6 @@ One of the challenges I have set myself is to try and keep every piece of code i
 
 <h2>Hexbot</h2>
 A simple color sorter with a couple effects
+
+<h2>Vexbot</h2>
+A point and line renderer in the console
