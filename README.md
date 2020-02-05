@@ -10,3 +10,6 @@ A point and line renderer in the console
 
 <h2><a href="https://noopschallenge.com/challenges/directbot">Directbot</a></h2>
 A particle system in the console
+
+<h2><a href="https://noopschallenge.com/challenges/mazebot">Mazebot</a></h2>
+A very simple console maze game, currently works on windows only.
