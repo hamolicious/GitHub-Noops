@@ -19,4 +19,4 @@ Struggled to think of something interesting so I created a very simple shape vie
 
 <h2><a href="https://noopschallenge.com/challenges/golfbot">Golfbot</a></h2>
  - 10 Print challenge
-  managed to complete the challenge with only 77 characters using python 3.8
+  managed to complete the challenge with only 78 characters and only on one line, kinda, using python 3.8
