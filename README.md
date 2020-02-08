@@ -13,3 +13,6 @@ A particle system in the console
 
 <h2><a href="https://noopschallenge.com/challenges/mazebot">Mazebot</a></h2>
 A very simple console maze game, currently works on windows only.
+
+<h2><a href="https://noopschallenge.com/challenges/polybot">Polybot</a></h2>
+Struggled to think of something interesting so I created a very simple shape viewer in the console
