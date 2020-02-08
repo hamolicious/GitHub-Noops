@@ -18,5 +18,5 @@ A very simple console maze game, currently works on windows only.
 Struggled to think of something interesting so I created a very simple shape viewer in the console
 
 <h2><a href="https://noopschallenge.com/challenges/golfbot">Golfbot</a></h2>
- - 10 Print challenge
-  managed to complete the challenge with only 78 characters and only on one line, kinda, using python 3.8
+ - <strong>10 Print challenge</strong>
+   managed to complete the challenge with only 78 characters and only on one line, kinda, using python 3.8
