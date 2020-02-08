@@ -21,4 +21,4 @@ Struggled to think of something interesting so I created a very simple shape vie
  - <strong>10 Print challenge</strong>
    managed to complete the challenge with only 78 characters and only on one line, kinda, using python 3.8<br>
  - <strong>Hexcode Generator challenge</strong>
-   managed to complete the challenge using only 136 characters  
+   managed to complete the challenge using only 102 characters  
