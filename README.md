@@ -19,6 +19,6 @@ Struggled to think of something interesting so I created a very simple shape vie
 
 <h2><a href="https://noopschallenge.com/challenges/golfbot">Golfbot</a></h2>
  - <strong>10 Print challenge</strong>
-   managed to complete the challenge with only 78 characters and only on one line, kinda, using python 3.8
+   managed to complete the challenge with only 78 characters and only on one line, kinda, using python 3.8\n
  - <strong>Hexcode Generator challenge</strong>
    managed to complete the challenge using only 136 characters  
