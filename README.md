@@ -22,3 +22,6 @@ Struggled to think of something interesting so I created a very simple shape vie
    managed to complete the challenge with only 78 characters and only on one line, kinda, using python 3.8<br>
  - <strong>Hexcode Generator challenge</strong>
    managed to complete the challenge using only 102 characters  
+   
+<h2><a href="https://noopschallenge.com/challenges/wordbot">Wordbot</a></h2>
+A command line sentance builder that allows you to build up a sentance using the random words given by the wordbot
