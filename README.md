@@ -28,8 +28,8 @@ A command line sentance builder that allows you to build up a sentance using the
 
 <br>
 <hr>
-<pre>
-I may have skipped a couple, this would be because I either don't find them interesting. I have also skipped all of the quiz-style Noops as I believe they are mainly aimed at the developer to do on their own.
 
+I may have skipped a couple, this would be because I either don't find them interesting. I have also skipped all of the quiz-style Noops as I believe they are mainly aimed at the developer to do on their own.
+<br>
 If there will be any new Noops I will surely have a go at using them too!
-</pre>
+
